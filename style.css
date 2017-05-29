@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url(train.jpg);
+    color: grey;
+}
+
+h3 {
+    padding: 5%;
+}
+
+.currentTrain>h4,
+.form>h4 {
+    padding: 10px 10px;
+    background: darkblue;
+    color: white;
+}
+
+.btn {
+    background: darkblue;
+    color: white;
+}
+
+table {
+    width: 100%;
+}
+
+body {
+    background-color: grey;
+}
